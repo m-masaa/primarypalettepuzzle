@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PrimaryPalettePuzzle.data.unityweb",
+"asmCodeUrl": "PrimaryPalettePuzzle.asm.code.unityweb",
+"asmMemoryUrl": "PrimaryPalettePuzzle.asm.memory.unityweb",
+"asmFrameworkUrl": "PrimaryPalettePuzzle.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
